@@ -6,12 +6,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies, develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Systems Engineering at Universidad Católica Boliviana Tarija.\
 🎓 &nbsp;Currently intern at Laboratorio de Tecnologías Sociales Bolivia.\
-✍️ &nbsp;I'm mainly centered on Backend development, Systems Architecture, Design Patterns and Data Science.\
+✍️ &nbsp;I'm mainly centered on Backend development, Machine Learning, Systems Architecture and Data Science.\
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and Cloud Services.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mauricio.rosas@ucb.edu.bo! I'll try to respond as soon as I can.\
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
